@@ -1,1 +1,1 @@
-# python-package-profanity-check
+# python-profanity-defender

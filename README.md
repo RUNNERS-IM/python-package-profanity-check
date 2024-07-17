@@ -1,1 +1,1 @@
-# python-profanity-defender
+# python-profanity-defend
